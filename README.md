@@ -1,3 +1,7 @@
+# infinity-server
+
+A fork of cloud-server to pretty much remove the limits. (not reccomended for projects that you actually want to be stable XD)
+
 # cloud-server
 
 A cloud data server for Scratch 3. Used by [forkphorus](https://forkphorus.github.io/) and [TurboWarp](https://turbowarp.org/).
