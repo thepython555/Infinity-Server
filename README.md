@@ -1,6 +1,6 @@
 # infinity-server
 
-A fork of cloud-server to pretty much remove the limits. (not reccomended for projects that you actually want to be stable XD)
+A fork of cloud-server to pretty much remove the limits.
 
 # cloud-server
 
