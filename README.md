@@ -1,6 +1,7 @@
 # infinity-server
 
 A fork of cloud-server to pretty much remove the limits.
+Here's a free url to use. [https://infinity-server.onrender.com](https://infinity-server.onrender.com)
 
 # cloud-server
 
